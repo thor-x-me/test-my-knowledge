@@ -13,12 +13,15 @@ def handle_ui1():
 
 
 def handle_ui2(url):
-    yield "Downloading Audio..."
+    yield "Downloading Audio...", gr.update(visible=False)
+
     status, message = download_audio(url)
+    print(message, " downloaded")
     time.sleep(1)
     audio_path = f"{message}"
     if status:
-        yield "Generating transcript..."
+        yield "Generating transcript...", gr.update(visible=False)
+
         # if trascript is already generated, skip regenerating transcript to save resources
         if os.path.exists(f"{message[:-4]}.txt"):
             transcript_status = True
@@ -31,25 +34,26 @@ def handle_ui2(url):
             time.sleep(5)
             with open(f"{message[:-4]}.txt", "w") as file:
                 file.write(transcript)
-            yield "Transcript Generated!"
+            yield "Transcript Generated!", gr.update(visible=False)
         time.sleep(1)
+
         if transcript_status:
             global questions
-            yield "Generating Quiz..."
-            quiz_status, questions = generate_quiz(transcript, file_name=message)
+            yield "Generating Quiz...", gr.update(visible=False)
+            quiz_status = generate_quiz(transcript, file_name=message[:-4])
             time.sleep(1)
             if quiz_status:
-                yield "Quiz generated successfully!"
+                yield "Quiz generated successfully!", gr.update(visible=True)
             else:
-                yield "Quiz generation failed!"
+                yield "Quiz generation failed!", gr.update(visible=False)
         else:
-            yield "Transcript generation failed!"
+            yield "Transcript generation failed!", gr.update(visible=False)
     else:
-        yield "Download Failed!"
+        yield "Download Failed!", gr.update(visible=False)
 
 
 def handle_ui3():
-    return gr.update(visible=True, render=True)
+    return gr.update(visible=True, render=True), gr.update(visible=False)
 
 
 with gr.Blocks() as quiz_app:
@@ -61,12 +65,14 @@ with gr.Blocks() as quiz_app:
         URL_input = gr.Textbox(placeholder="Enter URL and press submit", label="URL")
         download_start_button = gr.Button("Start Task")
         progress_output = gr.Textbox(label="Progress", lines=2, interactive=False)
-        start_quiz_button = gr.Button("Start Quiz")
+        start_quiz_button = gr.Button("Start Quiz", visible=False)
         questions = []
 
-    with gr.Column(visible=False, render=False) as UI_quiz:
+    with gr.Column(visible=False) as UI_quiz:
+        # Question
         initial_question = "Question will appear here."
-        initial_options = ['a', 'b']
+        # Options
+        initial_options = ['a', 'b', 'c', 'd']
         # Display the question
         question_text = gr.Textbox(label="Question", value=initial_question, interactive=False)
         # Display the options as radio buttons
@@ -88,8 +94,8 @@ with gr.Blocks() as quiz_app:
     # UI1 to UI2
     UI_description_submit_btn.click(handle_ui1, outputs=[UI_description, UI_pre_process])
     # Download and generate quiz
-    download_start_button.click(handle_ui2, inputs=[URL_input], outputs=[progress_output])
+    download_start_button.click(handle_ui2, inputs=[URL_input], outputs=[progress_output, start_quiz_button])
     # Prepare quiz
-    start_quiz_button.click(handle_ui3, outputs=[UI_quiz])
+    start_quiz_button.click(handle_ui3, outputs=[UI_quiz, UI_pre_process])
 
-quiz_app.launch()
+quiz_app.launch(share=True)
