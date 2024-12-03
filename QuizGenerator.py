@@ -18,9 +18,9 @@ def generate_quiz(summary, file_name):
         data = json.loads(filtered)
 
         # Write to file
-        with open(f'{file_name}.json', 'w') as file:
+        with open(f'quiz_json/{file_name}.json', 'w') as file:
             json.dump(data, file, indent=4)
-        return True, data
+        return True
     except Exception as ge:
         print(ge)
         return False
