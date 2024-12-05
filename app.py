@@ -18,12 +18,12 @@ def handle_ui2(url):
     status, message = download_audio(url)
     print(message, " downloaded")
     time.sleep(1)
-    audio_path = f"{message}"
+    audio_path = f"audio_files/{message}"
     if status:
         yield "Generating transcript...", gr.update(visible=False)
 
         # if trascript is already generated, skip regenerating transcript to save resources
-        if os.path.exists(f"{message[:-4]}.txt"):
+        if os.path.exists(f"generated_transcript/{message[:-4]}.txt"):
             transcript_status = True
             # Reading already saved transcript
             with open(f"{message[:-4]}.txt") as trans:
