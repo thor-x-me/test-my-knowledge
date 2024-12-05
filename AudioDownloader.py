@@ -16,7 +16,7 @@ def get_newest_file(directory):
     return newest_file
 
 
-def download_audio(url, path="."):
+def download_audio(url, path="audio_files"):
     try:
         yt = YouTube(url)
 
@@ -37,4 +37,4 @@ def download_audio(url, path="."):
         print(f"An error occurred: {e}")
         return False, "Failed"
 
-    return True, get_newest_file('.')
+    return True, get_newest_file('audio_files')

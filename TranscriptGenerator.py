@@ -12,8 +12,7 @@ def generate_transcript(audio_file):
     deepgram_api = os.environ.get("DEEPGRAM_API_KEY")
     try:
         deepgram = DeepgramClient(deepgram_api)
-
-        with open(audio_file, "rb") as file:
+        with open(f"{audio_file}", "rb") as file:
             buffer_data = file.read()
 
         payload: FileSource = {
