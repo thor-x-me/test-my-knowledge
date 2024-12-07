@@ -9,7 +9,7 @@ def generate_quiz(summary, file_name):
     try:
         genai.configure(api_key=os.environ.get('GOOGLE_API_KEY'))
         model = genai.GenerativeModel("gemini-1.5-flash")
-        response = model.generate_content(get_prompt('quiz_prompt.txt') + summary)
+        response = model.generate_content(get_prompt('quiz_prompt_v2.txt') + summary)
 
         # Use regex to extract the JSON string
         filtered = re.search(r'\[.*\]', str(response.text), re.DOTALL).group(0)
