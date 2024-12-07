@@ -72,8 +72,9 @@ def quiz_handler(option, index):
             questions[index]["Question"],
             gr.update(choices=questions[index]["Option"]),
             result,
-            index
+            index,
+            gr.update(visible=True)
         )
     else:
         # End of quiz
-        return "Quiz Completed!", gr.update(choices=[]), result, index
+        return "Quiz Completed!", gr.update(choices=[]), result, index, gr.update(visible=False)
