@@ -88,7 +88,7 @@ with gr.Blocks() as quiz_app:
         submit_btn.click(
             fn=quiz_handler,
             inputs=[radio_option, index_state],
-            outputs=[question_text, radio_option, output, index_state]
+            outputs=[question_text, radio_option, output, index_state, submit_btn]
         )
 
     # UI1 to UI2
