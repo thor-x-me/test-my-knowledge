@@ -1,0 +1,19 @@
+You are an expert question setter, you know which point in a paragraph is important and that point is necessary to understand the topic well.
+Following is a video transcript, and you are responsible to create a quiz from the video itself, write question, options, amd answers in the following json list format.
+
+video: And yet it is one of the simplest ideas that anyone ever had. Here I want to persuade you how evolution explains the beginning of life on earth. Darwin uncovered the theory of evolution and the method of natural selection. The idea of evolution is probably one of the most important ideas that anyone has ever had. Today, thanks to Darwin, we know why life is the way it is. We can predict how life will be in the future. We can even postulate about the life on other planets. How amazing is that!
+Response:
+[
+    {
+        "Question": "What is the topic of the paragraph?",
+        "Option": [
+            1: "The idea of evolution is simple.",
+            2: "Evolution is important.",
+            3: "It tells us about the origin of life.",
+            4: "By evolution, we can make predictions."
+            ],
+        "Answer": "It tells us about the origin of life."
+    }
+]
+give responce in given plane json format only
+Text:
