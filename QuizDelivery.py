@@ -51,7 +51,7 @@ def find_newest_file(directory):
 
 
 # Function to handle the quiz logic and update question index
-def quiz_handler(option, index):
+def quiz_handler(option, index, correct, wrong):
     question_folder = 'quiz_json'
     latest_quiz = find_newest_file(question_folder)
     with open(latest_quiz, 'r') as quiz:
@@ -62,7 +62,13 @@ def quiz_handler(option, index):
         result = 'Select your option'
     else:
         # Check if the answer is correct
-        result = "Correct Answer" if questions[index]["Answer"] == option else "Wrong Answer"
+        if questions[index]["Answer"] == option:
+            result = "Correct Answer"
+            correct += 1
+        else:
+            result = "Wrong Answer"
+            wrong += 1
+
     # Increment the index to load the next question
     index += 1
     # Check if there are more questions left
@@ -73,8 +79,17 @@ def quiz_handler(option, index):
             gr.update(choices=questions[index]["Option"]),
             result,
             index,
-            gr.update(visible=True)
+            gr.update(visible=True),
+            correct,
+            wrong
         )
     else:
         # End of quiz
-        return "Quiz Completed!", gr.update(choices=[]), result, index, gr.update(visible=False)
+        return (
+            "Quiz Completed!",
+            gr.update(choices=[]),
+            result,
+            index,
+            gr.update(visible=False),
+            correct,
+            wrong)
