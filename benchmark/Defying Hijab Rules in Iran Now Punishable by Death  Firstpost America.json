@@ -1,0 +1,83 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 9,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "2",
+                "1": "1",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What is the significance of Masa Amini's death?",
+                    "What is the significance of the \"hijab clinics\" mentioned in the text?"
+                ],
+                "1": [
+                    "What is the stated opinion of some Iranian leaders regarding the new law?"
+                ],
+                "2": [
+                    "What is the central theme of the text?",
+                    "What is the international community's role, according to the text?"
+                ],
+                "3": [
+                    "How have Iranian women responded to the new hijab law?",
+                    "What is the overall message conveyed by Iranian women protesting the compulsory hijab?"
+                ],
+                "4": [
+                    "What are the penalties for violating the new hijab law in Iran?",
+                    "What is the role of Article 60 in Iran's new law?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "law",
+                1.265194845138159
+            ],
+            [
+                "new",
+                1.265194845138159
+            ],
+            [
+                "hijab",
+                1.2611379149844884
+            ],
+            [
+                "text",
+                1.2001023931996446
+            ],
+            [
+                "iranian",
+                0.9924990378147065
+            ],
+            [
+                "significance",
+                0.8789679754778739
+            ],
+            [
+                "iran",
+                0.8323552979365252
+            ],
+            [
+                "role",
+                0.8183668571145524
+            ],
+            [
+                "women",
+                0.7774024192894903
+            ],
+            [
+                "central",
+                0.6275425225049098
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.3988551",
+        "similarity_variation": "0.2922515",
+        "is_diverse": "False"
+    }
+}

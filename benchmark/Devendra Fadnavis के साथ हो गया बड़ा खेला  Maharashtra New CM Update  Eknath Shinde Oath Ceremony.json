@@ -1,0 +1,71 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 3,
+            "num_clusters": 3,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What is the main argument the author is trying to make in this paragraph?"
+                ],
+                "1": [
+                    "What is one implication of understanding evolution, as stated in the paragraph?"
+                ],
+                "2": [
+                    "According to the paragraph, what significant contribution did Darwin make?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "paragraph",
+                0.7918855850662028
+            ],
+            [
+                "make",
+                0.6550035144018618
+            ],
+            [
+                "evolution",
+                0.479527938028855
+            ],
+            [
+                "implication",
+                0.479527938028855
+            ],
+            [
+                "stated",
+                0.479527938028855
+            ],
+            [
+                "understanding",
+                0.479527938028855
+            ],
+            [
+                "argument",
+                0.450504072643198
+            ],
+            [
+                "author",
+                0.450504072643198
+            ],
+            [
+                "main",
+                0.450504072643198
+            ],
+            [
+                "trying",
+                0.450504072643198
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.64333606",
+        "similarity_variation": "0.25688645",
+        "is_diverse": "False"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 5,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "1",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "Which launch vehicle's capabilities and cost are directly compared to Falcon 9 and Soyuz in the text?"
+                ],
+                "1": [
+                    "According to the text, what role does NSIL play in the ESA-India collaborations?"
+                ],
+                "2": [
+                    "What is the primary focus of the European Space Agency's (ESA) collaboration with India's NewSpace India Limited (NSIL)?"
+                ],
+                "3": [
+                    "What key advantage of PSLV is emphasized regarding its use by ESA?"
+                ],
+                "4": [
+                    "What is highlighted as a particularly challenging mission for the PSLV?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "india",
+                0.768232206608386
+            ],
+            [
+                "esa",
+                0.7131070176770583
+            ],
+            [
+                "pslv",
+                0.7007812636567667
+            ],
+            [
+                "text",
+                0.5708615427554065
+            ],
+            [
+                "nsil",
+                0.5323950926071249
+            ],
+            [
+                "challenging",
+                0.4636932227319092
+            ],
+            [
+                "highlighted",
+                0.4636932227319092
+            ],
+            [
+                "mission",
+                0.4636932227319092
+            ],
+            [
+                "particularly",
+                0.4636932227319092
+            ],
+            [
+                "advantage",
+                0.4049070906159763
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.45648843",
+        "similarity_variation": "0.32756647",
+        "is_diverse": "True"
+    }
+}

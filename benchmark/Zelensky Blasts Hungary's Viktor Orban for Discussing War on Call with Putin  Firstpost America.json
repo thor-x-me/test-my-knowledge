@@ -1,0 +1,83 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 9,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "2",
+                "1": "3",
+                "2": "2",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What was Russia's response to the alleged missile strike?",
+                    "What is the Oryoshenk missile described as?"
+                ],
+                "1": [
+                    "Who initiated the phone call between Putin and Orban, and what was the call about?",
+                    "How did Zelensky respond to Orban's mediation efforts?",
+                    "What peace proposal was rejected by Zelensky according to Orban?"
+                ],
+                "2": [
+                    "What event triggered Russia's vow for retaliation?",
+                    "What are some potential targets for Russia's retaliation, according to the text?"
+                ],
+                "3": [
+                    "What is Orban's unique political position mentioned in the text?"
+                ],
+                "4": [
+                    "Which country supplied the missiles used in the attack on the Taganrog military airfield, according to Russia?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "orban",
+                1.223652746072677
+            ],
+            [
+                "russia",
+                1.1647712585092052
+            ],
+            [
+                "according",
+                0.9356352830480679
+            ],
+            [
+                "missile",
+                0.9281360099694285
+            ],
+            [
+                "retaliation",
+                0.81863575350355
+            ],
+            [
+                "text",
+                0.7759957094064538
+            ],
+            [
+                "zelensky",
+                0.7634350557099605
+            ],
+            [
+                "described",
+                0.6070787148636269
+            ],
+            [
+                "oryoshenk",
+                0.6070787148636269
+            ],
+            [
+                "initiated",
+                0.5406580066486407
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.46018898",
+        "similarity_variation": "0.26772317",
+        "is_diverse": "True"
+    }
+}

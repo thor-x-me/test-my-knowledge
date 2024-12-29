@@ -1,0 +1,83 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 9,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "3",
+                "2": "2",
+                "3": "1",
+                "4": "2"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What key message is repeatedly emphasized regarding the Syrian situation?"
+                ],
+                "1": [
+                    "Besides France, which other international body voiced concerns regarding Israel's actions?",
+                    "How has the international community responded to Israel's actions?",
+                    "Which country is mentioned as offering support to Israel's actions?"
+                ],
+                "2": [
+                    "What prompted France's call for Israel's withdrawal from the Golan Heights?",
+                    "Which international agreement is violated by Israel's actions in the Golan Heights?"
+                ],
+                "3": [
+                    "What is the central question left unanswered at the end of the video?"
+                ],
+                "4": [
+                    "What is Israel's stated reason for entering the buffer zone?",
+                    "What is the stated position of the United States regarding Syria's future government?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "israel",
+                1.4726931837918738
+            ],
+            [
+                "actions",
+                1.2383245306190078
+            ],
+            [
+                "international",
+                1.0624735610308704
+            ],
+            [
+                "regarding",
+                0.8734768151620613
+            ],
+            [
+                "golan",
+                0.7935494140139949
+            ],
+            [
+                "heights",
+                0.7935494140139949
+            ],
+            [
+                "france",
+                0.7628719075018839
+            ],
+            [
+                "stated",
+                0.6919662000544435
+            ],
+            [
+                "community",
+                0.5563616374754292
+            ],
+            [
+                "responded",
+                0.5563616374754292
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.47690544",
+        "similarity_variation": "0.2615546",
+        "is_diverse": "True"
+    }
+}

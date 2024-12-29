@@ -1,0 +1,85 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 11,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "3",
+                "1": "3",
+                "2": "1",
+                "3": "2",
+                "4": "2"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What was the primary reason for the failure of the Intuitive Machines lunar lander?",
+                    "What is the primary navigation system used by lunar landers like Blue Ghost at higher altitudes?",
+                    "What is the SLAM algorithm, and how is it used in lunar landings?"
+                ],
+                "1": [
+                    "What is the significance of NASA's Commercial Lunar Payload Services (CLPS) Initiative?",
+                    "What is the challenge posed by the changing weight of a lunar lander during descent?",
+                    "How do ground crews determine if a lunar lander has successfully landed?"
+                ],
+                "2": [
+                    "Why is landing on the Moon so difficult, even with modern technology?"
+                ],
+                "3": [
+                    "What is the purpose of the 'shock shuttle' in the landing legs of Blue Ghost?",
+                    "What is Lunanet, and what is its purpose?"
+                ],
+                "4": [
+                    "How does the Lunar Reconnaissance Orbiter assist in autonomous lunar navigation?",
+                    "What advantage does China have in lunar communication and navigation compared to the US and Europe?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "lunar",
+                1.7034146315812357
+            ],
+            [
+                "purpose",
+                1.0009801752625926
+            ],
+            [
+                "lander",
+                0.9457509183296092
+            ],
+            [
+                "navigation",
+                0.8687539383584091
+            ],
+            [
+                "lunanet",
+                0.7601495451333123
+            ],
+            [
+                "landing",
+                0.7442269478567629
+            ],
+            [
+                "used",
+                0.7384690840588278
+            ],
+            [
+                "does",
+                0.6798152349258608
+            ],
+            [
+                "primary",
+                0.6722222082932883
+            ],
+            [
+                "blue",
+                0.6592612904250659
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.41465387",
+        "similarity_variation": "0.21588857",
+        "is_diverse": "True"
+    }
+}

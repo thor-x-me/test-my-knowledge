@@ -1,0 +1,75 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 4,
+            "num_clusters": 4,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "1",
+                "3": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What key factor distinguishes the Lebanon situation from the Gaza situation, according to the text?"
+                ],
+                "1": [
+                    "What is indicated about the conditions in Lebanon?"
+                ],
+                "2": [
+                    "What is the primary focus of the text?"
+                ],
+                "3": [
+                    "Which countries/entities are mentioned as playing a role in the Lebanon ceasefire negotiations?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "lebanon",
+                0.8474515181377124
+            ],
+            [
+                "text",
+                0.7358911033520849
+            ],
+            [
+                "conditions",
+                0.6445029922609534
+            ],
+            [
+                "indicated",
+                0.6445029922609534
+            ],
+            [
+                "situation",
+                0.6315403660642249
+            ],
+            [
+                "focus",
+                0.6176143709756019
+            ],
+            [
+                "primary",
+                0.6176143709756019
+            ],
+            [
+                "ceasefire",
+                0.36742338834830635
+            ],
+            [
+                "countries",
+                0.36742338834830635
+            ],
+            [
+                "entities",
+                0.36742338834830635
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.5862167",
+        "similarity_variation": "0.3004706",
+        "is_diverse": "True"
+    }
+}

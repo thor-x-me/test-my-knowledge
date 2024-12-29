@@ -1,0 +1,79 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 5,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "1",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "According to the paragraph, who profits most from global wars?"
+                ],
+                "1": [
+                    "What action has the UK taken to combat child obesity?"
+                ],
+                "2": [
+                    "What is the main focus of the news segment presented in the paragraph?"
+                ],
+                "3": [
+                    "What significant event happened in Nepal, as mentioned in the paragraph?"
+                ],
+                "4": [
+                    "Which country is accused of cultural hegemony and economic harassment by Bangladesh's unelected government?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "paragraph",
+                0.891350961748054
+            ],
+            [
+                "according",
+                0.4741246485558491
+            ],
+            [
+                "global",
+                0.4741246485558491
+            ],
+            [
+                "profits",
+                0.4741246485558491
+            ],
+            [
+                "wars",
+                0.4741246485558491
+            ],
+            [
+                "event",
+                0.42841135808141123
+            ],
+            [
+                "focus",
+                0.42841135808141123
+            ],
+            [
+                "happened",
+                0.42841135808141123
+            ],
+            [
+                "main",
+                0.42841135808141123
+            ],
+            [
+                "mentioned",
+                0.42841135808141123
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.3483602",
+        "similarity_variation": "0.33317012",
+        "is_diverse": "False"
+    }
+}

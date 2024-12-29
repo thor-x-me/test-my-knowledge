@@ -1,0 +1,82 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 8,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "2",
+                "1": "1",
+                "2": "3",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What does the 'd naught' matrix (D\u2080) represent in the context of the Floyd-Warshall algorithm?",
+                    "What does the matrix D\u2096 represent in the Floyd-Warshall algorithm after the k-th iteration?"
+                ],
+                "1": [
+                    "What value is assigned to the weight of an edge between two vertices if there is no direct edge between them?"
+                ],
+                "2": [
+                    "What is the Floyd-Warshall algorithm used for?",
+                    "Which nested loops are used in the Floyd-Warshall algorithm's main computation?",
+                    "In the innermost loop of the Floyd-Warshall algorithm, what calculation is performed?"
+                ],
+                "3": [
+                    "How are the intermediate matrices (D\u2081, D\u2082, D\u2083, etc.) used to obtain the final shortest path matrix?"
+                ],
+                "4": [
+                    "What is the time complexity of the Floyd-Warshall algorithm in the worst case?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "algorithm",
+                1.5387524560164372
+            ],
+            [
+                "floyd",
+                1.5387524560164372
+            ],
+            [
+                "warshall",
+                1.5387524560164372
+            ],
+            [
+                "used",
+                1.1843225622410543
+            ],
+            [
+                "matrix",
+                0.8352251899842854
+            ],
+            [
+                "does",
+                0.7034921114305471
+            ],
+            [
+                "represent",
+                0.7034921114305471
+            ],
+            [
+                "edge",
+                0.6666666666666666
+            ],
+            [
+                "calculation",
+                0.45887337000762096
+            ],
+            [
+                "case",
+                0.45887337000762096
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.5769779",
+        "similarity_variation": "0.26528051",
+        "is_diverse": "True"
+    }
+}

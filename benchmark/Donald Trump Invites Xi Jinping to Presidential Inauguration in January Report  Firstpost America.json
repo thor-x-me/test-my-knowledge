@@ -1,0 +1,84 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 10,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "5",
+                "3": "2",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What is the historical precedent regarding Chinese attendance at US presidential inaugurations?"
+                ],
+                "1": [
+                    "What recent diplomatic event prompted Trump's invitation to Xi Jinping, according to the text?"
+                ],
+                "2": [
+                    "When did Donald Trump extend the invitation to Xi Jinping?",
+                    "Besides Xi Jinping, which other world leader might attend Trump's inauguration?",
+                    "What is the nature of the relationship between Viktor Orban and Donald Trump?",
+                    "When did Donald Trump and Xi Jinping last meet?",
+                    "How are world leaders currently treating president-elect Donald Trump?"
+                ],
+                "3": [
+                    "What is the status of China's response to the invitation?",
+                    "What is Trump's proposed response to high tariffs imposed by other countries, such as China?"
+                ],
+                "4": [
+                    "Who invited whom to the inauguration ceremony?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "trump",
+                1.5298686459462392
+            ],
+            [
+                "donald",
+                1.270887948976906
+            ],
+            [
+                "jinping",
+                1.2522100126323341
+            ],
+            [
+                "xi",
+                1.2522100126323341
+            ],
+            [
+                "invitation",
+                1.0784056361441232
+            ],
+            [
+                "inauguration",
+                0.9133986190583209
+            ],
+            [
+                "did",
+                0.9046179559126801
+            ],
+            [
+                "china",
+                0.8197659788470554
+            ],
+            [
+                "response",
+                0.8197659788470554
+            ],
+            [
+                "world",
+                0.7343003227923788
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.47275418",
+        "similarity_variation": "0.24135922",
+        "is_diverse": "True"
+    }
+}

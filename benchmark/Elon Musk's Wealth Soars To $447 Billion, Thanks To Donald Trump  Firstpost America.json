@@ -1,0 +1,84 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 10,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "2",
+                "1": "2",
+                "2": "4",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What is the approximate amount Elon Musk gained from the SpaceX share sale?",
+                    "What is the estimated value of SpaceX before the recent share sale?"
+                ],
+                "1": [
+                    "Besides Tesla and SpaceX, which other companies contribute significantly to Musk's wealth?",
+                    "How did investor sentiment towards Tesla contribute to Musk's wealth?"
+                ],
+                "2": [
+                    "What significant milestone did Elon Musk achieve?",
+                    "What was the primary driver of the increase in Musk's net worth?",
+                    "What significant financial setback did Musk experience in 2022?",
+                    "What is the concluding statement about Elon Musk's rise?"
+                ],
+                "3": [
+                    "What role has government funding played in Musk's success?"
+                ],
+                "4": [
+                    "What is the main focus of the video?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "musk",
+                1.6337161954165649
+            ],
+            [
+                "elon",
+                1.0960088932584804
+            ],
+            [
+                "did",
+                1.0239379349927447
+            ],
+            [
+                "spacex",
+                1.0093151500093205
+            ],
+            [
+                "significant",
+                0.7870502763802736
+            ],
+            [
+                "sale",
+                0.7703362649191592
+            ],
+            [
+                "share",
+                0.7703362649191592
+            ],
+            [
+                "contribute",
+                0.7666451260330134
+            ],
+            [
+                "tesla",
+                0.7666451260330134
+            ],
+            [
+                "wealth",
+                0.7666451260330134
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.5427977",
+        "similarity_variation": "0.2510093",
+        "is_diverse": "True"
+    }
+}

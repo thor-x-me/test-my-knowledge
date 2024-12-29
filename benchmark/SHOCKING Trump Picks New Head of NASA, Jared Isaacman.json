@@ -1,0 +1,79 @@
+{
+    "topic_coverage": {
+        "diversity_analysis": {
+            "total_questions": 5,
+            "num_clusters": 5,
+            "cluster_distribution": {
+                "0": "1",
+                "1": "1",
+                "2": "1",
+                "3": "1",
+                "4": "1"
+            },
+            "cluster_representatives": {
+                "0": [
+                    "What are some of Jared Isaacman's key qualifications mentioned that make him a suitable candidate for NASA administrator?"
+                ],
+                "1": [
+                    "What is FRAM 2, as described in the video?"
+                ],
+                "2": [
+                    "What is the primary announcement discussed in the video?"
+                ],
+                "3": [
+                    "What significant detail about FRAM 2's mission is highlighted in the video?"
+                ],
+                "4": [
+                    "According to the video, what is a potential major change that Jared Isaacman's leadership might bring to NASA?"
+                ]
+            }
+        },
+        "top_keywords": [
+            [
+                "video",
+                1.189601761448497
+            ],
+            [
+                "fram",
+                0.9800666161631836
+            ],
+            [
+                "described",
+                0.7127752157729959
+            ],
+            [
+                "isaacman",
+                0.5501871437165244
+            ],
+            [
+                "jared",
+                0.5501871437165244
+            ],
+            [
+                "nasa",
+                0.5501871437165244
+            ],
+            [
+                "announcement",
+                0.5490363340004775
+            ],
+            [
+                "discussed",
+                0.5490363340004775
+            ],
+            [
+                "primary",
+                0.5490363340004775
+            ],
+            [
+                "highlighted",
+                0.5019920933000556
+            ]
+        ]
+    },
+    "semantic_diversity": {
+        "average_question_similarity": "0.5169278",
+        "similarity_variation": "0.31499323",
+        "is_diverse": "True"
+    }
+}
