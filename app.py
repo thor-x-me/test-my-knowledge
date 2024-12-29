@@ -14,41 +14,47 @@ def handle_ui1():
 
 def handle_ui2(url):
     yield "Downloading Audio...", gr.update(visible=False)
-
+    print("Downloading audio...")
     status, message = download_audio(url)
     print(message, " downloaded")
     time.sleep(1)
     audio_path = f"audio_files/{message}"
     if status:
         yield "Generating transcript...", gr.update(visible=False)
-
+        print("Generating transcript...")
         # if trascript is already generated, skip regenerating transcript to save resources
         if os.path.exists(f"generated_transcript/{message[:-4]}.txt"):
             transcript_status = True
+            print("Using already generated transcript...")
             # Reading already saved transcript
-            with open(f"{message[:-4]}.txt") as trans:
+            with open(f"generated_transcript/{message[:-4]}.txt") as trans:
                 transcript = trans.read()
         else:
             transcript_status, transcript = generate_transcript(audio_path)
             # Saving a copy of transcript
             time.sleep(5)
-            with open(f"{message[:-4]}.txt", "w") as file:
+            with open(f"generated_transcript/{message[:-4]}.txt", "w") as file:
                 file.write(transcript)
             yield "Transcript Generated!", gr.update(visible=False)
         time.sleep(1)
 
         if transcript_status:
             global questions
+            print("Generating quiz...")
             yield "Generating Quiz...", gr.update(visible=False)
             quiz_status = generate_quiz(transcript, file_name=message[:-4])
             time.sleep(1)
             if quiz_status:
+                print("Quiz generated...")
                 yield "Quiz generated successfully!", gr.update(visible=True)
             else:
+                print("Quiz generation failed!")
                 yield "Quiz generation failed!", gr.update(visible=False)
         else:
+            print("Transcript generation failed!")
             yield "Transcript generation failed!", gr.update(visible=False)
     else:
+        print("Download failed!")
         yield "Download Failed!", gr.update(visible=False)
 
 
@@ -84,11 +90,18 @@ with gr.Blocks() as quiz_app:
         # Hidden state to track the current question index
         index_state = gr.State(value=-1)
 
+        # with gr.Row as result:
+        # Display correct answer count
+        correct = gr.Number(label="Correct", interactive=False, value=0)
+        # Display wrong answer count
+        wrong = gr.Number(label="Wrong", interactive=False, value=0)
+
+
         # Update question, options, and index on button click
         submit_btn.click(
             fn=quiz_handler,
-            inputs=[radio_option, index_state],
-            outputs=[question_text, radio_option, output, index_state, submit_btn]
+            inputs=[radio_option, index_state, correct, wrong],
+            outputs=[question_text, radio_option, output, index_state, submit_btn, correct, wrong]
         )
 
     # UI1 to UI2
