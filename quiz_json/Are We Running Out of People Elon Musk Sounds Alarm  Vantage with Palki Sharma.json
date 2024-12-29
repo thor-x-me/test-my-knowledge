@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the primary cause of the global concern highlighted in the text?",
+        "Option": [
+            "Rising urbanization",
+            "Decreasing fertility rates",
+            "High cost of living",
+            "Shifting cultural norms"
+        ],
+        "Answer": "Decreasing fertility rates"
+    },
+    {
+        "Question": "According to the text, what is the ideal fertility rate needed to sustain a population?",
+        "Option": [
+            "1.0",
+            "1.5",
+            "2.1",
+            "3.0"
+        ],
+        "Answer": "2.1"
+    },
+    {
+        "Question": "Which country is mentioned as having the lowest birth rate in the world?",
+        "Option": [
+            "Singapore",
+            "Japan",
+            "Brazil",
+            "South Korea"
+        ],
+        "Answer": "South Korea"
+    },
+    {
+        "Question": "What significant economic consequence is predicted due to declining birth rates?",
+        "Option": [
+            "Increased economic growth",
+            "Improved healthcare systems",
+            "Stronger pension funds",
+            "Stagnant economic growth"
+        ],
+        "Answer": "Stagnant economic growth"
+    },
+    {
+        "Question": "What is Elon Musk's main assertion regarding certain countries, as mentioned in the text?",
+        "Option": [
+            "They are experiencing economic booms.",
+            "They are experiencing rapid population growth.",
+            "They are facing extinction due to falling fertility rates.",
+            "They are developing advanced technologies."
+        ],
+        "Answer": "They are facing extinction due to falling fertility rates."
+    }
+]

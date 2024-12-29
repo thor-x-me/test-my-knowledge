@@ -1,0 +1,62 @@
+[
+    {
+        "Question": "What is the main conflict described in the text?",
+        "Option": [
+            "A conflict between Syria and Iran.",
+            "A renewed offensive by rebels against the Assad regime in Syria.",
+            "A conflict between Russia and Ukraine impacting Syria.",
+            "A dispute over control of Aleppo airport."
+        ],
+        "Answer": "A renewed offensive by rebels against the Assad regime in Syria."
+    },
+    {
+        "Question": "Which group is leading the recent offensive against the Assad regime?",
+        "Option": [
+            "Al Qaeda",
+            "The Syrian army",
+            "HTS (Hayat Tahrir al-Sham)",
+            "Kurdish forces"
+        ],
+        "Answer": "HTS (Hayat Tahrir al-Sham)"
+    },
+    {
+        "Question": "What is the approximate percentage of Syrian territory controlled by the Assad regime?",
+        "Option": [
+            "80%",
+            "60%",
+            "40%",
+            "20%"
+        ],
+        "Answer": "60%"
+    },
+    {
+        "Question": "Which countries are providing support to the Assad regime?",
+        "Option": [
+            "The United States and the United Kingdom",
+            "Israel and Saudi Arabia",
+            "Iran and Russia",
+            "France and Germany"
+        ],
+        "Answer": "Iran and Russia"
+    },
+    {
+        "Question": "What significant event occurred in Aleppo that highlights the rebels' gains?",
+        "Option": [
+            "The rebels took control of the city's airport.",
+            "The rebels seized a large weapons cache.",
+            "A statue of Assad's brother was torn down.",
+            "The rebels captured the city's mayor."
+        ],
+        "Answer": "A statue of Assad's brother was torn down."
+    },
+    {
+        "Question": "What is the stated goal of Iran's continued support for the Assad regime?",
+        "Option": [
+            "To establish a permanent military base in Syria.",
+            "To secure access to Syrian oil reserves.",
+            "To neutralize the threat to the Assad regime.",
+            "To overthrow the HTS rebels."
+        ],
+        "Answer": "To neutralize the threat to the Assad regime."
+    }
+]

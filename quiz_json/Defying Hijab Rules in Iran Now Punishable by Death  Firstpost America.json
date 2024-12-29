@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "What is the central theme of the text?",
+        "Option": [
+            "The Iranian economy.",
+            "The fight for women's rights in Iran.",
+            "The Iranian political system.",
+            "The history of the hijab in Iran."
+        ],
+        "Answer": "The fight for women's rights in Iran."
+    },
+    {
+        "Question": "What are the penalties for violating the new hijab law in Iran?",
+        "Option": [
+            "Fines only.",
+            "Fines, flogging, and imprisonment.",
+            "Imprisonment and execution.",
+            "Fines, flogging, imprisonment, and potentially execution."
+        ],
+        "Answer": "Fines, flogging, imprisonment, and potentially execution."
+    },
+    {
+        "Question": "How have Iranian women responded to the new hijab law?",
+        "Option": [
+            "They have largely complied with the law.",
+            "They have remained silent and passive.",
+            "They have engaged in acts of defiance and protest.",
+            "They have fled the country in large numbers."
+        ],
+        "Answer": "They have engaged in acts of defiance and protest."
+    },
+    {
+        "Question": "What is the significance of Masa Amini's death?",
+        "Option": [
+            "It had little impact on the situation.",
+            "It led to increased compliance with the hijab law.",
+            "It sparked widespread protests and acts of defiance.",
+            "It resulted in the immediate repeal of the hijab law."
+        ],
+        "Answer": "It sparked widespread protests and acts of defiance."
+    },
+    {
+        "Question": "What is the role of Article 60 in Iran's new law?",
+        "Option": [
+            "It protects women from harassment.",
+            "It criminalizes those who try to stop harassment of women who defy the hijab law.",
+            "It has no relevance to the hijab law.",
+            "It guarantees women's rights to protest."
+        ],
+        "Answer": "It criminalizes those who try to stop harassment of women who defy the hijab law."
+    },
+    {
+        "Question": "What is the international community's role, according to the text?",
+        "Option": [
+            "To remain neutral and not interfere.",
+            "To support the Iranian government's actions.",
+            "To apply pressure on Iranian authorities to repeal the law.",
+            "To provide financial aid to Iran."
+        ],
+        "Answer": "To apply pressure on Iranian authorities to repeal the law."
+    },
+    {
+        "Question": "What is the stated opinion of some Iranian leaders regarding the new law?",
+        "Option": [
+            "They fully support the law and its enforcement.",
+            "They are unconcerned about the law's impact.",
+            "They have expressed unease about growing discontent.",
+            "They believe the law will strengthen their regime's power."
+        ],
+        "Answer": "They have expressed unease about growing discontent."
+    },
+    {
+        "Question": "What is the significance of the \"hijab clinics\" mentioned in the text?",
+        "Option": [
+            "They provide support and resources for women who choose to wear the hijab.",
+            "They are centers for promoting traditional Iranian values.",
+            "They are used as a form of punishment for women who defy the hijab law.",
+            "They offer counseling services to victims of violence."
+        ],
+        "Answer": "They are used as a form of punishment for women who defy the hijab law."
+    },
+    {
+        "Question": "What is the overall message conveyed by Iranian women protesting the compulsory hijab?",
+        "Option": [
+            "Their silence must continue to protect their safety.",
+            "Their rights are negotiable and subject to change.",
+            "Their fight for freedom and autonomy is ongoing.",
+            "They are willing to accept the penalties for their actions."
+        ],
+        "Answer": "Their fight for freedom and autonomy is ongoing."
+    }
+]

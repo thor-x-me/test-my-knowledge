@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "What is the main focus of the video?",
+        "Option": [
+            "Elon Musk's controversies.",
+            "The rise of Elon Musk's net worth.",
+            "The success of Tesla and SpaceX.",
+            "Government funding of space exploration."
+        ],
+        "Answer": "The rise of Elon Musk's net worth."
+    },
+    {
+        "Question": "What significant milestone did Elon Musk achieve?",
+        "Option": [
+            "Becoming the first trillionaire.",
+            "Surpassing a net worth of $400 billion.",
+            "Selling SpaceX for $50 billion.",
+            "Launching a successful AI venture."
+        ],
+        "Answer": "Surpassing a net worth of $400 billion."
+    },
+    {
+        "Question": "What was the primary driver of the increase in Musk's net worth?",
+        "Option": [
+            "Increased Tesla stock prices.",
+            "The sale of SpaceX shares.",
+            "The success of The Boring Company.",
+            "A combination of SpaceX share sale and increased Tesla stock prices."
+        ],
+        "Answer": "A combination of SpaceX share sale and increased Tesla stock prices."
+    },
+    {
+        "Question": "What is the approximate amount Elon Musk gained from the SpaceX share sale?",
+        "Option": [
+            "$5 billion",
+            "$50 billion",
+            "$500 billion",
+            "$82 billion"
+        ],
+        "Answer": "$50 billion"
+    },
+    {
+        "Question": "Besides Tesla and SpaceX, which other companies contribute significantly to Musk's wealth?",
+        "Option": [
+            "Only The Boring Company",
+            "The Boring Company and Neuralink only",
+            "The Boring Company, Neuralink, X (formerly Twitter), and XAI.",
+            "Only XAI"
+        ],
+        "Answer": "The Boring Company, Neuralink, X (formerly Twitter), and XAI."
+    },
+    {
+        "Question": "What is the estimated value of SpaceX before the recent share sale?",
+        "Option": [
+            "$50 billion",
+            "$82 billion",
+            "$20 billion",
+            "$500 billion"
+        ],
+        "Answer": "$82 billion"
+    },
+    {
+        "Question": "What role has government funding played in Musk's success?",
+        "Option": [
+            "It has had no significant impact.",
+            "SpaceX has received nearly $20 billion in federal contracts.",
+            "Tesla has received significant government subsidies.",
+            "Musk has avoided government funding entirely."
+        ],
+        "Answer": "SpaceX has received nearly $20 billion in federal contracts."
+    },
+    {
+        "Question": "How did investor sentiment towards Tesla contribute to Musk's wealth?",
+        "Option": [
+            "Negative sentiment led to a decrease in Tesla's stock price.",
+            "Positive sentiment, fueled by expectations of friendly policies from the new administration and environmental concerns, boosted Tesla's stock price.",
+            "Investor sentiment had no impact on Tesla's stock price.",
+            "Investors were skeptical of Tesla's future prospects."
+        ],
+        "Answer": "Positive sentiment, fueled by expectations of friendly policies from the new administration and environmental concerns, boosted Tesla's stock price."
+    },
+    {
+        "Question": "What significant financial setback did Musk experience in 2022?",
+        "Option": [
+            "A minor dip in his net worth.",
+            "A loss of between $180 billion and $200 billion due to a Tesla stock plummet.",
+            "Bankruptcy of one of his companies.",
+            "He didn't experience any significant financial setbacks."
+        ],
+        "Answer": "A loss of between $180 billion and $200 billion due to a Tesla stock plummet."
+    },
+    {
+        "Question": "What is the concluding statement about Elon Musk's rise?",
+        "Option": [
+            "It's a result of pure luck.",
+            "It's a masterclass in leveraging public funds, investor fantasies, and media attention.",
+            "It's a cautionary tale of unchecked ambition.",
+            "It's a testament to his genius alone."
+        ],
+        "Answer": "It's a masterclass in leveraging public funds, investor fantasies, and media attention."
+    }
+]

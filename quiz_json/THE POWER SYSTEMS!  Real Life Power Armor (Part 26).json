@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "What is the main challenge addressed in this episode of the build log?",
+        "Option": [
+            "Building the mech arms.",
+            "Designing the control system.",
+            "Solving the builder's back pain.",
+            "Creating the power systems."
+        ],
+        "Answer": "Solving the builder's back pain."
+    },
+    {
+        "Question": "What existing technology is repurposed and upgraded in this episode?",
+        "Option": [
+            "A t-60 power armor suit.",
+            "An Elysium exoskeleton frame.",
+            "A Call of Duty exoskeleton power pack.",
+            "A Mega Hex power loader."
+        ],
+        "Answer": "A Call of Duty exoskeleton power pack."
+    },
+    {
+        "Question": "What is the purpose of the 'power armor station' built in this episode?",
+        "Option": [
+            "To store tools and parts.",
+            "To provide support for the exoskeleton during testing.",
+            "To display the completed suit.",
+            "To house the air compressor."
+        ],
+        "Answer": "To provide support for the exoskeleton during testing."
+    },
+    {
+        "Question": "What safety feature is incorporated into the suit's design?",
+        "Option": [
+            "Automatic deflation of cuffs.",
+            "Emergency power-off switch.",
+            "Automatic opening of the suit in case of power failure.",
+            "Internal cooling system."
+        ],
+        "Answer": "Automatic opening of the suit in case of power failure."
+    },
+    {
+        "Question": "What industrial controller is used in the power pack?",
+        "Option": [
+            "Arduino Mega",
+            "Raspberry Pi",
+            "Convus Revolution Pi",
+            "PLC-5"
+        ],
+        "Answer": "Convus Revolution Pi"
+    },
+    {
+        "Question": "What is the main focus of the final strength test in this episode?",
+        "Option": [
+            "Testing the maximum weight the arms can lift.",
+            "Evaluating the suit's overall structural integrity.",
+            "Assessing the comfort and functionality of the suit.",
+            "Demonstrating the suit's ability to open and close smoothly."
+        ],
+        "Answer": "Assessing the comfort and functionality of the suit."
+    },
+    {
+        "Question": "What is the sponsor of the power armor build?",
+        "Option": [
+            "Bethesda",
+            "Microsoft",
+            "Sony",
+            "Activision"
+        ],
+        "Answer": "Bethesda"
+    },
+    {
+        "Question": "What game is the power armor design inspired by?",
+        "Option": [
+            "Call of Duty",
+            "Titanfall",
+            "Halo",
+            "Fallout 76"
+        ],
+        "Answer": "Fallout 76"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the primary focus of the European Space Agency's (ESA) collaboration with India's NewSpace India Limited (NSIL)?",
+        "Option": [
+            "Developing new launch vehicles.",
+            "Securing launch services for challenging missions.",
+            "Establishing joint research programs.",
+            "Creating a global space diplomacy network."
+        ],
+        "Answer": "Securing launch services for challenging missions."
+    },
+    {
+        "Question": "Which launch vehicle's capabilities and cost are directly compared to Falcon 9 and Soyuz in the text?",
+        "Option": [
+            "Ariane 6",
+            "Vega C",
+            "PSLV",
+            "LVM 3"
+        ],
+        "Answer": "PSLV"
+    },
+    {
+        "Question": "What is highlighted as a particularly challenging mission for the PSLV?",
+        "Option": [
+            "Launching a satellite to geostationary orbit (GTO).",
+            "The Probat 3 mission.",
+            "The Inset mission.",
+            "A mission involving a solar eclipse."
+        ],
+        "Answer": "The Probat 3 mission."
+    },
+    {
+        "Question": "What key advantage of PSLV is emphasized regarding its use by ESA?",
+        "Option": [
+            "Its high payload capacity.",
+            "Its advanced technology.",
+            "Its cost-effectiveness and reliability.",
+            "Its availability of launch slots."
+        ],
+        "Answer": "Its cost-effectiveness and reliability."
+    },
+    {
+        "Question": "According to the text, what role does NSIL play in the ESA-India collaborations?",
+        "Option": [
+            "It is the primary research and development partner.",
+            "It manages the financial aspects of the collaborations.",
+            "It acts as the point of contact for guaranteed launch services.",
+            "It oversees the diplomatic relations between the agencies."
+        ],
+        "Answer": "It acts as the point of contact for guaranteed launch services."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Question": "According to the paragraph, what significant contribution did Darwin make?",
+        "Option": [
+            "1: He proved the existence of life on other planets.",
+            "2: He discovered the theory of evolution and natural selection.",
+            "3: He explained the simplicity of life's beginnings.",
+            "4: He predicted the future of life on Earth."
+        ],
+        "Answer": "2: He discovered the theory of evolution and natural selection."
+    },
+    {
+        "Question": "What is the main argument the author is trying to make in this paragraph?",
+        "Option": [
+            "1: Evolution is a complex and difficult concept.",
+            "2: Evolution is a simple yet profoundly important idea explaining life's origins and future.",
+            "3: Darwin's work is overrated and needs re-evaluation.",
+            "4: Predicting the future of life is impossible."
+        ],
+        "Answer": "2: Evolution is a simple yet profoundly important idea explaining life's origins and future."
+    },
+    {
+        "Question": "What is one implication of understanding evolution, as stated in the paragraph?",
+        "Option": [
+            "1: We can definitively know the exact beginning of life.",
+            "2: We can only focus on life on Earth.",
+            "3: We can make predictions about life's future and speculate about extraterrestrial life.",
+            "4: It explains why life is complex."
+        ],
+        "Answer": "3: We can make predictions about life's future and speculate about extraterrestrial life."
+    }
+]

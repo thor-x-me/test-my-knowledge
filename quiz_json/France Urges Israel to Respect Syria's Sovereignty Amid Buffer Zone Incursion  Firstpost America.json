@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "What prompted France's call for Israel's withdrawal from the Golan Heights?",
+        "Option": [
+            "Israel's airstrikes on Syrian military installations.",
+            "Israel's entry into the Golan demilitarized zone, violating the 1974 disengagement agreement.",
+            "Concerns about growing instability in Syria.",
+            "Pressure from the United Nations."
+        ],
+        "Answer": "Israel's entry into the Golan demilitarized zone, violating the 1974 disengagement agreement."
+    },
+    {
+        "Question": "Which international agreement is violated by Israel's actions in the Golan Heights?",
+        "Option": [
+            "The Geneva Convention.",
+            "The Sykes-Picot Agreement.",
+            "The 1974 disengagement agreement between Israel and Syria.",
+            "The Camp David Accords."
+        ],
+        "Answer": "The 1974 disengagement agreement between Israel and Syria."
+    },
+    {
+        "Question": "Besides France, which other international body voiced concerns regarding Israel's actions?",
+        "Option": [
+            "The European Union.",
+            "The Arab League.",
+            "The United Nations.",
+            "NATO."
+        ],
+        "Answer": "The United Nations."
+    },
+    {
+        "Question": "What key message is repeatedly emphasized regarding the Syrian situation?",
+        "Option": [
+            "The need for military intervention.",
+            "The importance of protecting civilians and ensuring inclusive arrangements.",
+            "The necessity of supporting the Assad regime.",
+            "The urgency of establishing a no-fly zone."
+        ],
+        "Answer": "The importance of protecting civilians and ensuring inclusive arrangements."
+    },
+    {
+        "Question": "What is Israel's stated reason for entering the buffer zone?",
+        "Option": [
+            "To annex the Golan Heights.",
+            "To address potential security threats from Syria's instability.",
+            "To support Syrian rebel groups.",
+            "To preemptively strike Iranian forces."
+        ],
+        "Answer": "To address potential security threats from Syria's instability."
+    },
+    {
+        "Question": "How has the international community responded to Israel's actions?",
+        "Option": [
+            "There has been unanimous condemnation.",
+            "The response has been divided, with some supporting Israel and others criticizing its actions.",
+            "Most countries have remained neutral.",
+            "There has been no significant international response."
+        ],
+        "Answer": "The response has been divided, with some supporting Israel and others criticizing its actions."
+    },
+    {
+        "Question": "Which country is mentioned as offering support to Israel's actions?",
+        "Option": [
+            "Russia.",
+            "Saudi Arabia.",
+            "The United States.",
+            "China."
+        ],
+        "Answer": "The United States."
+    },
+    {
+        "Question": "What is the stated position of the United States regarding Syria's future government?",
+        "Option": [
+            "Support for the Assad regime.",
+            "Support for a Syrian-led and owned political transition to credible, inclusive, and non-sectarian governance.",
+            "Neutrality in the Syrian conflict.",
+            "Support for a military intervention led by the UN."
+        ],
+        "Answer": "Support for a Syrian-led and owned political transition to credible, inclusive, and non-sectarian governance."
+    },
+    {
+        "Question": "What is the central question left unanswered at the end of the video?",
+        "Option": [
+            "Will Syria regain its territorial integrity?",
+            "How far will Israel go to secure its borders and how will the world respond?",
+            "Will the United States intervene militarily?",
+            "Will the UN impose sanctions on Israel?"
+        ],
+        "Answer": "How far will Israel go to secure its borders and how will the world respond?"
+    }
+]

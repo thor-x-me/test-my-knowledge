@@ -1,0 +1,112 @@
+[
+    {
+        "Question": "What was the primary reason for the failure of the Intuitive Machines lunar lander?",
+        "Option": [
+            "A propellant leak",
+            "A collision with a rock during descent",
+            "Failure of the communication system",
+            "Malfunction of the engine"
+        ],
+        "Answer": "A collision with a rock during descent"
+    },
+    {
+        "Question": "Why is landing on the Moon so difficult, even with modern technology?",
+        "Option": [
+            "Lack of sufficient funding",
+            "The unpredictable nature of the lunar surface and the challenges of autonomous navigation",
+            "Inadequate testing of the landing systems",
+            "Insufficient training of the pilots"
+        ],
+        "Answer": "The unpredictable nature of the lunar surface and the challenges of autonomous navigation"
+    },
+    {
+        "Question": "What is the significance of NASA's Commercial Lunar Payload Services (CLPS) Initiative?",
+        "Option": [
+            "To solely reduce the cost of lunar missions.",
+            "To develop expertise in reliable lunar landings using autonomous systems and test new technologies.",
+            "To solely focus on crewed missions.",
+            "To exclusively support large space agencies."
+        ],
+        "Answer": "To develop expertise in reliable lunar landings using autonomous systems and test new technologies."
+    },
+    {
+        "Question": "How does the Lunar Reconnaissance Orbiter assist in autonomous lunar navigation?",
+        "Option": [
+            "It provides real-time guidance during landing.",
+            "It creates a high-resolution 3D map of the Moon's surface.",
+            "It relays communication signals between the lander and Earth.",
+            "It controls the lander's thrusters."
+        ],
+        "Answer": "It creates a high-resolution 3D map of the Moon's surface."
+    },
+    {
+        "Question": "What is the primary navigation system used by lunar landers like Blue Ghost at higher altitudes?",
+        "Option": [
+            "Inertial Measurement Unit (IMU)",
+            "GPS signals",
+            "Visual navigation system using cameras",
+            "Deep Space Network"
+        ],
+        "Answer": "Visual navigation system using cameras"
+    },
+    {
+        "Question": "What is the SLAM algorithm, and how is it used in lunar landings?",
+        "Option": [
+            "A system for monitoring propellant levels",
+            "An algorithm for simultaneous localization and mapping, used for navigation when visual cues are limited",
+            "A communication protocol for relaying data to Earth",
+            "A system for controlling the lander's thrusters"
+        ],
+        "Answer": "An algorithm for simultaneous localization and mapping, used for navigation when visual cues are limited"
+    },
+    {
+        "Question": "What is the challenge posed by the changing weight of a lunar lander during descent?",
+        "Option": [
+            "It affects the lander's stability and control",
+            "It increases fuel consumption",
+            "It reduces the accuracy of the navigation system",
+            "It makes communication with Earth difficult"
+        ],
+        "Answer": "It affects the lander's stability and control"
+    },
+    {
+        "Question": "What is the purpose of the 'shock shuttle' in the landing legs of Blue Ghost?",
+        "Option": [
+            "To increase the speed of descent",
+            "To protect the lander's internal components from damage",
+            "To provide additional thrust",
+            "To improve communication"
+        ],
+        "Answer": "To protect the lander's internal components from damage"
+    },
+    {
+        "Question": "How do ground crews determine if a lunar lander has successfully landed?",
+        "Option": [
+            "They rely solely on visual confirmation from Earth-based telescopes.",
+            "They use a combination of sensor data from the lander, communication signals, and inertial measurement unit data.",
+            "They rely on the lander's cameras",
+            "They send a rover to the landing site."
+        ],
+        "Answer": "They use a combination of sensor data from the lander, communication signals, and inertial measurement unit data."
+    },
+    {
+        "Question": "What advantage does China have in lunar communication and navigation compared to the US and Europe?",
+        "Option": [
+            "Larger budget for space exploration",
+            "More advanced rocket technology",
+            "A network of lunar relay satellites providing continuous communication",
+            "Superior landing leg technology"
+        ],
+        "Answer": "A network of lunar relay satellites providing continuous communication"
+    },
+    {
+        "Question": "What is Lunanet, and what is its purpose?",
+        "Option": [
+            "A new type of lunar lander",
+            "A planned network of navigation beacons and satellites for future lunar missions",
+            "A communication system using GPS signals",
+            "A lunar rover"
+        ],
+        "Answer": "A planned network of navigation beacons and satellites for future lunar missions"
+    }
+]

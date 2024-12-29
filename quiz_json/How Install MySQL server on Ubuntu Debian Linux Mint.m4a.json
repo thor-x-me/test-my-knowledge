@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the main purpose of the video tutorial?",
+        "Option": [
+            "To explain the concepts of MySQL.",
+            "To install MySQL Server on Debian and Ubuntu.",
+            "To compare different Linux distributions.",
+            "To troubleshoot common MySQL errors."
+        ],
+        "Answer": "To install MySQL Server on Debian and Ubuntu."
+    },
+    {
+        "Question": "Why is a manual installation of MySQL necessary in this case?",
+        "Option": [
+            "The standard installation method is outdated.",
+            "The `mysql-server` command is unavailable on the mentioned distributions.",
+            "The script provided offers a more efficient installation.",
+            "The tutorial focuses on a specific, non-standard approach."
+        ],
+        "Answer": "The `mysql-server` command is unavailable on the mentioned distributions."
+    },
+    {
+        "Question": "What is the primary tool used for the installation process?",
+        "Option": [
+            "A graphical user interface.",
+            "A pre-written installation script.",
+            "A series of individual commands.",
+            "A package manager such as apt or yum."
+        ],
+        "Answer": "A pre-written installation script."
+    },
+    {
+        "Question": "What is mentioned as a potential issue that might occur during installation, and how is it addressed?",
+        "Option": [
+            "Incorrect system configuration; addressed by manual selection of options within the script.",
+            "Network connectivity problems; addressed by checking network settings.",
+            "Insufficient disk space; addressed by freeing up space.",
+            "Incompatible software versions; addressed by using a compatibility layer."
+        ],
+        "Answer": "Incorrect system configuration; addressed by manual selection of options within the script."
+    },
+    {
+        "Question": "What is the final step demonstrated in the video?",
+        "Option": [
+            "Verifying the script's integrity.",
+            "Restarting the computer.",
+            "Successfully logging into the MySQL server.",
+            "Running a database query."
+        ],
+        "Answer": "Successfully logging into the MySQL server."
+    }
+]

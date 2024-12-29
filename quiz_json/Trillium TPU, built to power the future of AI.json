@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the main focus of the text?",
+        "Option": [
+            "The history of Google's AI development.",
+            "The introduction of the Trillium TPU.",
+            "The importance of deep neural networks.",
+            "The future of AI infrastructure."
+        ],
+        "Answer": "The introduction of the Trillium TPU."
+    },
+    {
+        "Question": "What is the Trillium TPU?",
+        "Option": [
+            "A new generation of Tensor Processing Units.",
+            "A type of deep neural network.",
+            "A custom-developed application.",
+            "An AI hypercomputer."
+        ],
+        "Answer": "A new generation of Tensor Processing Units."
+    },
+    {
+        "Question": "What is a key improvement of Trillium TPU over its predecessor?",
+        "Option": [
+            "Increased energy consumption.",
+            "Reduced training performance.",
+            "Over 4x increase in training performance.",
+            "Lower price-performance ratio."
+        ],
+        "Answer": "Over 4x increase in training performance."
+    },
+    {
+        "Question": "Which Google AI models utilize TPUs?",
+        "Option": [
+            "Only Gemini.",
+            "Gemini, Imagen, and PaLM.",
+            "Gemini, Imagen, and Gemma.",
+            "None of the above."
+        ],
+        "Answer": "Gemini, Imagen, and Gemma."
+    },
+    {
+        "Question": "What significant advancement in network bandwidth does Trillium offer?",
+        "Option": [
+            "A 2x increase.",
+            "A 4x increase.",
+            "No increase.",
+            "A 14x increase."
+        ],
+        "Answer": "A 4x increase."
+    }
+]

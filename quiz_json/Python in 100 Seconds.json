@@ -1,0 +1,122 @@
+[
+    {
+        "Question": "What is Python?",
+        "Option": [
+            "A low-level compiled programming language",
+            "A high-level interpreted programming language",
+            "A scripting language primarily used for web development",
+            "A markup language used for creating websites"
+        ],
+        "Answer": "A high-level interpreted programming language"
+    },
+    {
+        "Question": "Why is Python considered popular?",
+        "Option": [
+            "It's difficult to learn but powerful for large projects.",
+            "It's easy to learn and practical for serious projects.",
+            "It's only used for small, simple programs.",
+            "It lacks practical applications."
+        ],
+        "Answer": "It's easy to learn and practical for serious projects."
+    },
+    {
+        "Question": "Who created Python and when was it released?",
+        "Option": [
+            "Guido Van Rossum in 1991",
+            "Bill Gates in 1985",
+            "Steve Jobs in 1980",
+            "Linus Torvalds in 1991"
+        ],
+        "Answer": "Guido Van Rossum in 1991"
+    },
+    {
+        "Question": "What is the origin of Python's name?",
+        "Option": [
+            "A type of snake",
+            "A mathematical concept",
+            "Monty Python's Flying Circus",
+            "A Greek mythological figure"
+        ],
+        "Answer": "Monty Python's Flying Circus"
+    },
+    {
+        "Question": "What are some common uses of Python?",
+        "Option": [
+            "Building web applications and big data analysis",
+            "Only for game development",
+            "Primarily for mobile app development",
+            "Exclusively for desktop application development"
+        ],
+        "Answer": "Building web applications and big data analysis"
+    },
+    {
+        "Question": "What is a key characteristic of Python's design philosophy?",
+        "Option": [
+            "Complexity and ambiguity",
+            "Readability and simplicity",
+            "Brevity above all else",
+            "Use of extensive magic"
+        ],
+        "Answer": "Readability and simplicity"
+    },
+    {
+        "Question": "How does Python handle code blocks?",
+        "Option": [
+            "Using curly braces {} like C++ or Java",
+            "Using indentation",
+            "Using semicolons ;",
+            "Using keywords like BEGIN and END"
+        ],
+        "Answer": "Using indentation"
+    },
+    {
+        "Question": "Is Python statically or dynamically typed?",
+        "Option": [
+            "Statically typed",
+            "Dynamically typed",
+            "Both statically and dynamically typed",
+            "Neither statically nor dynamically typed"
+        ],
+        "Answer": "Dynamically typed"
+    },
+    {
+        "Question": "What is the current major version of Python?",
+        "Option": [
+            "Version 1",
+            "Version 2",
+            "Version 3",
+            "Version 4"
+        ],
+        "Answer": "Version 3"
+    },
+    {
+        "Question": "What file extensions are commonly used for Python files and interactive notebooks?",
+        "Option": [
+            ".py and .ipynb",
+            ".cpp and .txt",
+            ".java and .html",
+            ".js and .css"
+        ],
+        "Answer": ".py and .ipynb"
+    },
+    {
+        "Question": "What is 'pip' in the context of Python?",
+        "Option": [
+            "A type of data structure",
+            "A package manager",
+            "A Python keyword",
+            "A web framework"
+        ],
+        "Answer": "A package manager"
+    },
+    {
+        "Question": "What programming paradigms does Python support?",
+        "Option": [
+            "Only procedural programming",
+            "Only object-oriented programming",
+            "Only functional programming",
+            "Procedural, object-oriented, and functional programming"
+        ],
+        "Answer": "Procedural, object-oriented, and functional programming"
+    }
+]

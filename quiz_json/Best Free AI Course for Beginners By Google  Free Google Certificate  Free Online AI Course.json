@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the primary focus of the Google AI course described in the text?",
+        "Option": [
+            "Teaching educators how to use generative AI in their classrooms.",
+            "Providing a comprehensive overview of artificial intelligence.",
+            "Training students and educators in generative AI skills for daily life and professional development.",
+            "Offering a stock market investment course integrated with AI concepts."
+        ],
+        "Answer": "Training students and educators in generative AI skills for daily life and professional development."
+    },
+    {
+        "Question": "What benefit is specifically mentioned for educators who complete the course?",
+        "Option": [
+            "A higher salary.",
+            "Professional development credit and a job certificate.",
+            "Guaranteed employment at Google.",
+            "Free access to all future Google AI courses."
+        ],
+        "Answer": "Professional development credit and a job certificate."
+    },
+    {
+        "Question": "Which institution collaborated with Google in designing this course?",
+        "Option": [
+            "Harvard University",
+            "Stanford University",
+            "MIT",
+            "Oxford University"
+        ],
+        "Answer": "MIT"
+    },
+    {
+        "Question": "What is mentioned as a bonus offering alongside the main generative AI course?",
+        "Option": [
+            "A course on music production using AI.",
+            "A free course on stock market basics.",
+            "A subscription to a premium AI software.",
+            "One-on-one mentorship from a Google AI expert."
+        ],
+        "Answer": "A free course on stock market basics."
+    },
+    {
+        "Question": "What is a key feature of the course's design?",
+        "Option": [
+            "It is highly structured with strict deadlines.",
+            "It is only available in English.",
+            "It is self-paced and flexible.",
+            "It requires extensive prior knowledge of AI."
+        ],
+        "Answer": "It is self-paced and flexible."
+    }
+]

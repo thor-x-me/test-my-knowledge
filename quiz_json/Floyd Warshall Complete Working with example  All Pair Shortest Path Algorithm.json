@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "What is the Floyd-Warshall algorithm used for?",
+        "Option": [
+            "Finding the shortest path between a single source and all other vertices",
+            "Finding the shortest path between all pairs of vertices",
+            "Sorting vertices based on their distance from a source vertex",
+            "Determining the minimum spanning tree of a graph"
+        ],
+        "Answer": "Finding the shortest path between all pairs of vertices"
+    },
+    {
+        "Question": "What is the time complexity of the Floyd-Warshall algorithm in the worst case?",
+        "Option": [
+            "O(V log V)",
+            "O(E log V)",
+            "O(V\u00b3)",
+            "O(V\u00b2 log V)"
+        ],
+        "Answer": "O(V\u00b3)"
+    },
+    {
+        "Question": "What does the 'd naught' matrix (D\u2080) represent in the context of the Floyd-Warshall algorithm?",
+        "Option": [
+            "The adjacency matrix of the graph",
+            "The distance matrix after the first iteration",
+            "The final shortest path distance matrix",
+            "A matrix representing the edge weights"
+        ],
+        "Answer": "The adjacency matrix of the graph"
+    },
+    {
+        "Question": "Which nested loops are used in the Floyd-Warshall algorithm's main computation?",
+        "Option": [
+            "One outer loop iterating through vertices, and two inner loops iterating through edges",
+            "Three nested loops, each iterating through vertices",
+            "Two nested loops, one iterating through rows and the other through columns",
+            "One outer loop iterating through edges and two inner loops iterating through vertices"
+        ],
+        "Answer": "Three nested loops, each iterating through vertices"
+    },
+    {
+        "Question": "In the innermost loop of the Floyd-Warshall algorithm, what calculation is performed?",
+        "Option": [
+            "Adding the weights of two edges",
+            "Finding the minimum of two distances",
+            "Multiplying the weights of two edges",
+            "Subtracting the weights of two edges"
+        ],
+        "Answer": "Finding the minimum of two distances"
+    },
+    {
+        "Question": "What value is assigned to the weight of an edge between two vertices if there is no direct edge between them?",
+        "Option": [
+            "0",
+            "1",
+            "Infinity",
+            "-1"
+        ],
+        "Answer": "Infinity"
+    },
+    {
+        "Question": "What does the matrix D\u2096 represent in the Floyd-Warshall algorithm after the k-th iteration?",
+        "Option": [
+            "The shortest paths considering only vertices 1 to k as intermediate vertices",
+            "The shortest paths considering only vertices k to V as intermediate vertices",
+            "The shortest paths considering only direct edges",
+            "The final shortest path distances"
+        ],
+        "Answer": "The shortest paths considering only vertices 1 to k as intermediate vertices"
+    },
+    {
+        "Question": "How are the intermediate matrices (D\u2081, D\u2082, D\u2083, etc.) used to obtain the final shortest path matrix?",
+        "Option": [
+            "They are summed",
+            "They are multiplied",
+            "They are recursively updated based on the minimum path lengths found in the previous iteration",
+            "They are averaged"
+        ],
+        "Answer": "They are recursively updated based on the minimum path lengths found in the previous iteration"
+    }
+]

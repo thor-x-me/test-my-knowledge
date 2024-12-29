@@ -1,0 +1,52 @@
+[
+    {
+        "Question": "What is the main focus of the news segment presented in the paragraph?",
+        "Option": [
+            "The political situation in France.",
+            "The melting ice in the Arctic.",
+            "A global overview of current events and conflicts.",
+            "The economic impact of wars."
+        ],
+        "Answer": "A global overview of current events and conflicts."
+    },
+    {
+        "Question": "According to the paragraph, who profits most from global wars?",
+        "Option": [
+            "Russia",
+            "The United States",
+            "Qatar",
+            "Israel"
+        ],
+        "Answer": "The United States"
+    },
+    {
+        "Question": "Which country is accused of cultural hegemony and economic harassment by Bangladesh's unelected government?",
+        "Option": [
+            "China",
+            "Pakistan",
+            "India",
+            "United States"
+        ],
+        "Answer": "India"
+    },
+    {
+        "Question": "What significant event happened in Nepal, as mentioned in the paragraph?",
+        "Option": [
+            "A new president was elected.",
+            "Prime Minister Oli signed a BRI framework with China.",
+            "There was a major earthquake.",
+            "A new constitution was adopted."
+        ],
+        "Answer": "Prime Minister Oli signed a BRI framework with China."
+    },
+    {
+        "Question": "What action has the UK taken to combat child obesity?",
+        "Option": [
+            "Increased taxes on junk food.",
+            "Banned daytime TV advertisements for junk food.",
+            "Launched a public awareness campaign.",
+            "Restricted the sale of sugary drinks."
+        ],
+        "Answer": "Banned daytime TV advertisements for junk food."
+    }
+]

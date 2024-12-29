@@ -1,0 +1,62 @@
+[
+    {
+        "Question": "What is the main purpose of this video tutorial?",
+        "Option": [
+            "To explain advanced cryptography techniques.",
+            "To demonstrate how to implement a simple substitution cipher in Python.",
+            "To teach viewers how to encrypt private messages securely.",
+            "To discuss the history of substitution ciphers."
+        ],
+        "Answer": "To demonstrate how to implement a simple substitution cipher in Python."
+    },
+    {
+        "Question": "Why is a substitution cipher not recommended for modern cryptography?",
+        "Option": [
+            "It is too complex to implement.",
+            "It is not efficient enough for large amounts of data.",
+            "It is relatively easy to break compared to more modern techniques.",
+            "It requires specialized hardware."
+        ],
+        "Answer": "It is relatively easy to break compared to more modern techniques."
+    },
+    {
+        "Question": "What is the core concept of a substitution cipher?",
+        "Option": [
+            "Replacing each character with a randomly chosen character from a defined alphabet.",
+            "Shifting the alphabet by a fixed number of positions.",
+            "Reversing the order of characters in a message.",
+            "Using a mathematical algorithm to transform characters."
+        ],
+        "Answer": "Replacing each character with a randomly chosen character from a defined alphabet."
+    },
+    {
+        "Question": "What Python packages are used in the implementation?",
+        "Option": [
+            "numpy and pandas",
+            "requests and BeautifulSoup",
+            "random and string",
+            "matplotlib and seaborn"
+        ],
+        "Answer": "random and string"
+    },
+    {
+        "Question": "What does the 'generate_key' function do?",
+        "Option": [
+            "Encrypts the message",
+            "Decrypts the message",
+            "Creates a random mapping of characters from the alphabet.",
+            "Imports necessary libraries"
+        ],
+        "Answer": "Creates a random mapping of characters from the alphabet."
+    },
+    {
+        "Question": "How is the decryption process performed?",
+        "Option": [
+            "Using a different key than the encryption key.",
+            "Reversing the algorithm used for encryption.",
+            "Using the same key and alphabet as in encryption, but reversing the lookup process.",
+            "Employing a separate decryption algorithm."
+        ],
+        "Answer": "Using the same key and alphabet as in encryption, but reversing the lookup process."
+    }
+]

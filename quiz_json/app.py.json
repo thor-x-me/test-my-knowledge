@@ -1,0 +1,42 @@
+[
+    {
+        "Question": "According to the paragraph, what significant contribution did Darwin make?",
+        "Option": [
+            "1: He proved the existence of life on other planets.",
+            "2: He developed the theory of evolution and the concept of natural selection.",
+            "3: He explained why life is simple.",
+            "4: He predicted the future of life on Earth."
+        ],
+        "Answer": "2: He developed the theory of evolution and the concept of natural selection."
+    },
+    {
+        "Question": "What is the author's main purpose in this paragraph?",
+        "Option": [
+            "1: To criticize Darwin's theory.",
+            "2: To explain how evolution predicts future life forms.",
+            "3: To persuade the reader that evolution explains the origin of life.",
+            "4: To discuss the simplicity of evolutionary concepts."
+        ],
+        "Answer": "3: To persuade the reader that evolution explains the origin of life."
+    },
+    {
+        "Question": "What is the paragraph's central claim about the theory of evolution?",
+        "Option": [
+            "1: It is a complex and difficult theory to understand.",
+            "2: It is a relatively simple idea with profound implications.",
+            "3: It is only applicable to life on Earth.",
+            "4: It is outdated and has been replaced by newer theories."
+        ],
+        "Answer": "2: It is a relatively simple idea with profound implications."
+    },
+    {
+        "Question": "Based on the paragraph, what are some of the implications of understanding evolution?",
+        "Option": [
+            "1: Predicting future life forms and speculating about extraterrestrial life.",
+            "2: Understanding the simplicity of all life forms.",
+            "3: Proving Darwin's theory incorrect.",
+            "4: Explaining the beginning of the universe."
+        ],
+        "Answer": "1: Predicting future life forms and speculating about extraterrestrial life."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Question": "What is the primary focus of the text?",
+        "Option": [
+            "The Gaza situation and its impact on Lebanon.",
+            "The details of a ceasefire agreement between Israel and Lebanon.",
+            "The political maneuvering surrounding the Lebanon ceasefire.",
+            "A comparison of the Israel-Gaza and Israel-Lebanon conflicts."
+        ],
+        "Answer": "The details of a ceasefire agreement between Israel and Lebanon."
+    },
+    {
+        "Question": "What key factor distinguishes the Lebanon situation from the Gaza situation, according to the text?",
+        "Option": [
+            "The involvement of different political parties.",
+            "The level of US pressure.",
+            "The nature of the involved forces and the areas they control.",
+            "The type of ceasefire agreement reached."
+        ],
+        "Answer": "The nature of the involved forces and the areas they control."
+    },
+    {
+        "Question": "Which countries/entities are mentioned as playing a role in the Lebanon ceasefire negotiations?",
+        "Option": [
+            "Israel, Lebanon, and the United States only.",
+            "Israel, Lebanon, the United States, Qatar, Egypt, and Turkey.",
+            "Only Israel and Lebanon.",
+            "Only the United States and Israel."
+        ],
+        "Answer": "Israel, Lebanon, the United States, Qatar, Egypt, and Turkey."
+    },
+    {
+        "Question": "What is indicated about the conditions in Lebanon?",
+        "Option": [
+            "They are identical to those in Gaza.",
+            "They are substantially different from those in Gaza.",
+            "They are improving rapidly.",
+            "They are largely unknown."
+        ],
+        "Answer": "They are substantially different from those in Gaza."
+    }
+]

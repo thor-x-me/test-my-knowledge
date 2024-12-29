@@ -1,0 +1,92 @@
+[
+    {
+        "Question": "What event triggered Russia's vow for retaliation?",
+        "Option": [
+            "A missile strike on a Russian military airfield.",
+            "Ukraine's use of Western-supplied weapons.",
+            "The launch of the Oryoshenk missile.",
+            "A call between Putin and Orban."
+        ],
+        "Answer": "A missile strike on a Russian military airfield."
+    },
+    {
+        "Question": "Which country supplied the missiles used in the attack on the Taganrog military airfield, according to Russia?",
+        "Option": [
+            "Russia",
+            "Ukraine",
+            "The United States",
+            "Hungary"
+        ],
+        "Answer": "The United States"
+    },
+    {
+        "Question": "What was Russia's response to the alleged missile strike?",
+        "Option": [
+            "They launched a counter-attack using the Oryoshenk missile.",
+            "They vowed retaliation, mentioning appropriate measures would be taken.",
+            "They initiated a peace negotiation with Ukraine.",
+            "They requested mediation from Hungary."
+        ],
+        "Answer": "They vowed retaliation, mentioning appropriate measures would be taken."
+    },
+    {
+        "Question": "What is the Oryoshenk missile described as?",
+        "Option": [
+            "A short-range missile easily intercepted.",
+            "A long-range missile with near-nuclear destructive power and difficult to intercept.",
+            "A conventional missile with limited range and impact.",
+            "A nuclear missile with devastating power."
+        ],
+        "Answer": "A long-range missile with near-nuclear destructive power and difficult to intercept."
+    },
+    {
+        "Question": "What are some potential targets for Russia's retaliation, according to the text?",
+        "Option": [
+            "Civilian populations.",
+            "Military facilities, defense industry enterprises, or decision-making centers in Kyiv.",
+            "Only military bases in Western Ukraine.",
+            "Nuclear power plants."
+        ],
+        "Answer": "Military facilities, defense industry enterprises, or decision-making centers in Kyiv."
+    },
+    {
+        "Question": "Who initiated the phone call between Putin and Orban, and what was the call about?",
+        "Option": [
+            "Putin initiated the call to discuss military strategy.",
+            "Orban initiated the call, positioning himself as a potential mediator in the Ukraine conflict.",
+            "Zelensky initiated the call to seek Russian concessions.",
+            "The call was initiated by a neutral third party."
+        ],
+        "Answer": "Orban initiated the call, positioning himself as a potential mediator in the Ukraine conflict."
+    },
+    {
+        "Question": "How did Zelensky respond to Orban's mediation efforts?",
+        "Option": [
+            "He welcomed the mediation attempt.",
+            "He praised Orban's efforts for peace.",
+            "He criticized Orban for undermining Western unity and boosting his personal image.",
+            "He remained neutral on the issue."
+        ],
+        "Answer": "He criticized Orban's efforts for undermining Western unity and boosting his personal image."
+    },
+    {
+        "Question": "What is Orban's unique political position mentioned in the text?",
+        "Option": [
+            "He is strongly opposed to both Russia and the US.",
+            "He is a strong supporter of Ukraine's independence.",
+            "He shares close ties with both President-elect Donald Trump and Russian leader Vladimir Putin.",
+            "He is a neutral observer in the conflict."
+        ],
+        "Answer": "He shares close ties with both President-elect Donald Trump and Russian leader Vladimir Putin."
+    },
+    {
+        "Question": "What peace proposal was rejected by Zelensky according to Orban?",
+        "Option": [
+            "A complete withdrawal of Russian troops from Ukraine.",
+            "A Christmas ceasefire and a large-scale prisoner exchange.",
+            "Negotiations without preconditions.",
+            "Unconditional surrender by Russia."
+        ],
+        "Answer": "A Christmas ceasefire and a large-scale prisoner exchange."
+    }
+]

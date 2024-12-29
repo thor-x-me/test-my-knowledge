@@ -1,0 +1,102 @@
+[
+    {
+        "Question": "Who invited whom to the inauguration ceremony?",
+        "Option": [
+            "Xi Jinping invited Donald Trump",
+            "Donald Trump invited Xi Jinping",
+            "Viktor Orban invited Donald Trump",
+            "Donald Trump invited Viktor Orban"
+        ],
+        "Answer": "Donald Trump invited Xi Jinping"
+    },
+    {
+        "Question": "When did Donald Trump extend the invitation to Xi Jinping?",
+        "Option": [
+            "Before the presidential election",
+            "Immediately after the presidential election",
+            "A few months after the election",
+            "A year after the election"
+        ],
+        "Answer": "Immediately after the presidential election"
+    },
+    {
+        "Question": "What is the status of China's response to the invitation?",
+        "Option": [
+            "They have accepted the invitation.",
+            "They have rejected the invitation.",
+            "They haven't made a comment yet.",
+            "They are planning a counter-invitation."
+        ],
+        "Answer": "They haven't made a comment yet."
+    },
+    {
+        "Question": "What is the historical precedent regarding Chinese attendance at US presidential inaugurations?",
+        "Option": [
+            "Chinese heads of state have always attended.",
+            "Chinese heads of state have never attended.",
+            "Chinese heads of state have attended sporadically.",
+            "China has always sent its president and a special representative."
+        ],
+        "Answer": "Chinese heads of state have never attended."
+    },
+    {
+        "Question": "Besides Xi Jinping, which other world leader might attend Trump's inauguration?",
+        "Option": [
+            "Vladimir Putin",
+            "Volodymyr Zelenskyy",
+            "Viktor Orban",
+            "None of the above"
+        ],
+        "Answer": "Viktor Orban"
+    },
+    {
+        "Question": "What is the nature of the relationship between Viktor Orban and Donald Trump?",
+        "Option": [
+            "They have a strained relationship.",
+            "They are political rivals.",
+            "They have a close relationship.",
+            "They have no known relationship."
+        ],
+        "Answer": "They have a close relationship."
+    },
+    {
+        "Question": "What recent diplomatic event prompted Trump's invitation to Xi Jinping, according to the text?",
+        "Option": [
+            "A trade deal between the US and China",
+            "A request from Ukraine for help brokering a truce between Russia and Ukraine",
+            "A diplomatic visit from other foreign dignitaries",
+            "None of the above"
+        ],
+        "Answer": "A request from Ukraine for help brokering a truce between Russia and Ukraine"
+    },
+    {
+        "Question": "What is Trump's proposed response to high tariffs imposed by other countries, such as China?",
+        "Option": [
+            "Negotiation and compromise",
+            "Economic sanctions",
+            "Reciprocal tariffs (an eye for an eye)",
+            "Military intervention"
+        ],
+        "Answer": "Reciprocal tariffs (an eye for an eye)"
+    },
+    {
+        "Question": "When did Donald Trump and Xi Jinping last meet?",
+        "Option": [
+            "Before the 2016 Presidential election.",
+            "During the 2020 Presidential election.",
+            "At the G20 summit in Japan in 2019.",
+            "During the 2024 Presidential election."
+        ],
+        "Answer": "At the G20 summit in Japan in 2019."
+    },
+    {
+        "Question": "How are world leaders currently treating president-elect Donald Trump?",
+        "Option": [
+            "As a future president",
+            "As an incumbent president",
+            "As a political rival",
+            "With indifference"
+        ],
+        "Answer": "As an incumbent president"
+    }
+]
