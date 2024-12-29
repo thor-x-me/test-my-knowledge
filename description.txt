@@ -8,16 +8,16 @@ By simply providing a YouTube link, this app analyzes the video content and gene
 
 ---
 
-## 🌟 **How It Works**
-1️⃣ **Paste the YouTube Link**: Provide the link of any educational lecture, tutorial, documentary, or podcast.
-2️⃣ **AI-Powered Analysis**: Advanced NLP algorithms analyze the video to identify key concepts and themes.
-3️⃣ **Generate Questions**: Receive thoughtful, insightful questions that reflect the video’s essence—customized for your learning level.
+# 🌟 **How It Works**
+ 1. **Paste the YouTube Link**: Provide the link of any educational lecture, tutorial, documentary, or podcast.
+ 2. **AI-Powered Analysis**: Advanced NLP algorithms analyze the video to identify key concepts and themes.
+ 3. **Generate Questions**: Receive thoughtful, insightful questions that reflect the video’s essence—customized for your learning level.
 
 Whether you're preparing for exams, exploring a new subject, or simply curious, the app makes learning from videos a breeze!
 
 ---
 
-## ✨ **Why Choose the YouTube Question Generator App?**
+# ✨ **Why Choose the YouTube Question Generator App?**
 
 1. **📚 Enhanced Learning**
    Actively engage with video content by answering generated questions, improving retention and comprehension.
@@ -39,7 +39,7 @@ Whether you're preparing for exams, exploring a new subject, or simply curious, 
 
 ---
 
-## 🎯 **A Tool for Modern Education**
+# 🎯 **A Tool for Modern Education**
 
 The **YouTube Question Generator App** is more than a tool—it’s your partner in making video learning **active**, **engaging**, and **effective**. In a world overflowing with online resources, it empowers you to extract meaningful insights, enhance critical thinking, and truly connect with the material.
 
@@ -49,7 +49,7 @@ The **YouTube Question Generator App** is more than a tool—it’s your partner
 
 ---
 
-## 🚀 **Get Started Today!**
+# 🚀 **Get Started Today!**
 Experience the future of interactive video learning. Whether you're a teacher, student, or self-learner, the **YouTube Question Generator App** is here to revolutionize how you engage with videos.
 
 💻 Paste your first YouTube link now and see the difference! 🌐
